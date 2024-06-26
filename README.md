@@ -1,2 +1,2 @@
-# Database-terminology-in-html
+This contains description about database terminology.
 Author- Aarshu Shakya
